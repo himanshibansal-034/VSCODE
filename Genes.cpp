@@ -8,15 +8,13 @@ using namespace std;
 
 int main(){
     fast
-    ll t;
-    cin >> t;
-    while(t--)
-    {
-        ll n,p,q;
-        cin>>n>>p>>q;
-        string s;
-        cin>>s;
-        
-    }
+    char a,b;
+    cin>>a>>b;
+    if(a=='R' || b=='R')
+    cout<<"R"<<endl;
+    else if(a=='B' || b=='B')
+    cout<<"B"<<endl;
+    else
+    cout<<"G"<<endl;
     return 0;
 }
