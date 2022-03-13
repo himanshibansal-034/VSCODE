@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\knapsack.cpp","tests":[{"id":1641970353195,"input":"1\n4 10\n10 40 30 50\n5 4 6 3","output":"90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\knapsack.cpp","group":"local","local":true}

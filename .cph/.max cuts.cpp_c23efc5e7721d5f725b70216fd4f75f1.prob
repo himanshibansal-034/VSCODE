@@ -1,0 +1,1 @@
+{"name":"Local: max cuts","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\max cuts.cpp","tests":[{"id":1641705099050,"input":"1\n5 1 2 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\max cuts.cpp","group":"local","local":true}

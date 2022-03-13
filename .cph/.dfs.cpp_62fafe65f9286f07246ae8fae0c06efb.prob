@@ -1,0 +1,1 @@
+{"name":"Local: dfs","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\dfs.cpp","tests":[{"id":1642570263586,"input":"1\n4 3\n0 2\n2 1\n1 3","output":"0\n2\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\dfs.cpp","group":"local","local":true}

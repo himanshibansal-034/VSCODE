@@ -1,0 +1,1 @@
+{"name":"Local: toposort_bfs","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\toposort_bfs.cpp","tests":[{"id":1643262984999,"input":"1\n4 4\n1 2\n2 3\n3 4\n4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\toposort_bfs.cpp","group":"local","local":true}

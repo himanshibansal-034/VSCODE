@@ -1,0 +1,1 @@
+{"name":"Local: min coins","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\min coins.cpp","tests":[{"id":1641708244378,"input":"1\n3 30\n25 10 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\min coins.cpp","group":"local","local":true}

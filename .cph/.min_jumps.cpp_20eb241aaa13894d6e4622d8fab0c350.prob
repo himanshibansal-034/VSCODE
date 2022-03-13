@@ -1,0 +1,1 @@
+{"name":"Local: min_jumps","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\min_jumps.cpp","tests":[{"id":1641884160222,"input":"1\n6\n3 4 2 1 2 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\min_jumps.cpp","group":"local","local":true}

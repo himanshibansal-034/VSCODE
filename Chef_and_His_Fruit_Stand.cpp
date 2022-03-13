@@ -12,12 +12,9 @@ int main(){
     cin >> t;
     while(t--)
     {
-        ll n;
-        cin>>n;
-        vector<ll> b(n);
-        for(ll i=0;i<n;i++)
-        cin>>b[i];
-        
+        int x,y;
+        cin>>x>>y;
+        cout<<min(x/2,y)<<endl;
     }
     return 0;
 }

@@ -1,0 +1,1 @@
+{"name":"Local: edit_distance","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\edit_distance.cpp","tests":[{"id":1641533981808,"input":"ecfbefdcfca badfcbebbf","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\edit_distance.cpp","group":"local","local":true}

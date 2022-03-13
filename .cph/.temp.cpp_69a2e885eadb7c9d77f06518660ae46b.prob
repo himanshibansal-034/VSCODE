@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\temp.cpp","tests":[{"id":1646051728631,"input":"abc\n3\n0 0 L\n2 2 L\n0 2 R","output":"acc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator.DESKTOP-2UPMI3A\\Desktop\\vscode\\temp.cpp","group":"local","local":true}
